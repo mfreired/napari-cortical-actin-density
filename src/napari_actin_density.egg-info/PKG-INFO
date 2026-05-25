@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: napari-actin-density
+Version: 0.1.0
+Summary: Cortical actin density quantification from cryo-ET data
+License: MIT
+Requires-Python: >=3.9
+Requires-Dist: napari>=0.4.18
+Requires-Dist: numpy
+Requires-Dist: pyvista
+Requires-Dist: mrcfile
+Requires-Dist: scikit-image
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: qtpy

@@ -1,0 +1,2 @@
+[napari.manifest]
+napari-actin-density = napari_actin_density:napari.yaml

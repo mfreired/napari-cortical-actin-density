@@ -1,0 +1,10 @@
+pyproject.toml
+src/napari_actin_density/__init__.py
+src/napari_actin_density/_widget.py
+src/napari_actin_density/napari.yaml
+src/napari_actin_density.egg-info/PKG-INFO
+src/napari_actin_density.egg-info/SOURCES.txt
+src/napari_actin_density.egg-info/dependency_links.txt
+src/napari_actin_density.egg-info/entry_points.txt
+src/napari_actin_density.egg-info/requires.txt
+src/napari_actin_density.egg-info/top_level.txt
