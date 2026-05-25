@@ -1,4 +1,4 @@
-# napari-actin-density
+# napari-cortical-actin-density
 
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-actin-density)](https://napari-hub.org/plugins/napari-actin-density)
 [![PyPI](https://img.shields.io/pypi/v/napari-actin-density.svg)](https://pypi.org/project/napari-actin-density)
